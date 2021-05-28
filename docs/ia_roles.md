@@ -6,4 +6,4 @@ While generally you can contact anyone on the analytics team for support our rol
 >- Karen Mayorga: [Kmayorga-pasillas@cityyear.org](mailto:kmayorga-pasillas@cityyear.org) | 323-743-9750
 >- Zack Latade: [Zlatade@cityyear.org](mailto:Zlatade@cityyear.org)
 
-<img src="_images/IA-roleschart.png" alt="IA-Roles" style="width:100%;"/>
+<img src="_images/IA-roleschart.PNG" alt="IA-Roles" style="width:100%;"/>
