@@ -1,6 +1,6 @@
-# CYLA Impact Analytics Roadmap
+# Getting Started with Impact Analytics
 
-Welcome to CYLA Whole School Whole Child (WSWC) Toolkit! We hope this guide will be your reference for questions / learning related to the tools and systems you will be using during your service.
+Welcome to the Impact Analytics (IA) Resource hub! We hope this guide will be your reference for IA tasks and policies throughout your year of service and help you with any questions / learning related to the IA tools and systems.
 
 If you have any additional questions, please check out the [FAQ](faq.md) or [Submit a Help Desk Ticket](https://cityyear.sharepoint.com/teams/lax/SitePages/CYLA%20Help%20Desk.aspx).
 
