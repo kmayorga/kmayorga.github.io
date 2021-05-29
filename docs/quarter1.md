@@ -19,10 +19,8 @@ July - August
         - What Makes a Good Focus List Checklist
         - Power BI [FY22 WSWC Dashboard](https://bit.ly/3i2TCaW): Initial Indicators Page
 
-# 
 
-
-## Getting Student Data
+# Getting Student Data
 
 ### Data Access (Teacher schedules for In Class Deployment)
 
@@ -41,18 +39,15 @@ Inglewood Unified School District
 
 Inglewood uses a data platform called Schoolzilla to manage their data. City Year uses Schoolzilla to access student performance data for your schools. Sometime in the first quarter the Analytics team will provide a training specifically for IUSD schools on how to access Schoolzilla for viewing student performance data.
 
-#
-
- ## Draft ACM Class Deployment
+ # Draft ACM Class Deployment
  In the summer as you plan with partners where ACMs will be placed into class lines with teachers, please fill out a copy of this draft deployment workbook. This workbook will help you build ACM schedules but also eventually become a key part of our Data model allowing ACMs to see students’ data from their classes and manage their focus lists. Without a draft deployment, our team will not be able to access data for students in ACM classes, please complete by: (XX/XX/XXXX).
 
  Sometime in September when the Analytics team gets access to student enrollment, we will send a final deployment workbook for PMs to copy data over into. This final workbook will be the one used to build out our data models for Power BI reports which is critical for functional and FERPA compliant student progress monitoring.
 
  ***Our current estimates for the rollout of all class deployment items is listed above and subject to change.***
 
- #
 
- ## Early Warning Indicators (EWI) and The Focus List Process
+ # Early Warning Indicators (EWI) and The Focus List Process
  ### What to Look for in a Focus List
  [Insert final pdf here]()
 
@@ -71,10 +66,10 @@ In FY22 the focus list process is being simplified to have less steps and allow 
 
 The Initial Focus List process begins with completing your school’s draft Deployment Workbook Template. Completion of the draft Deployment Workbook signifies that your team has been deployed into stable class lines and are ready to take steps towards building their initial focus list. Prior to making selections, ACMs will begin their student observation window (1-2 weeks). During this time, ACMs will begin to identify potential students, have initial ***conversations with their partner teachers, and explore the Student Portrait dashboard.***
 
- - ACMs will observe students in their classes
+- ACMs will observe students in their classes
 - ACMS will have initial conversations with partner teachers and consider their recommendations
 - ACMs will explore the Student Portrait Dashboard on Power BI
-        - Prior year attendance & grades
+    - Prior year attendance & grades
 
 During this period, the IA team will give PMs and ACMs access to their school’s Focus List Workbooks. Once ACMs have solidified their initial list of 11 students, they may input their information into the focus list workbook.
 
@@ -84,4 +79,4 @@ During this period, the IA team will give PMs and ACMs access to their school’
 
 The general timelines for the focus list process are below and are subject to change. Keep in mind these are recommended windows in which things should progress and your school may be different.
 
-[Observation Catchers for Focus Lists]()
+[Observation Catchers for Focus Lists](https://www.tablesgenerator.com/markdown_tables)
