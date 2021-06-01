@@ -7,14 +7,16 @@
 
 - Analytics Tasks by Quarter
     - [IA Team Timeline](iatimeline.md)
-    - [Quarter 1: Start of Year](quarter1.md)
-    - [CACME](q1.md)
-    - [Extended Learning Time](elt.md)
-    - [Quarter 2: Middle Year](quarter2.md)
-    - [Quarter 3: End of Year](quarter3.md)
+    - [Quarter 1: Start of Year](q1.md)
+    - [Quarter 2: Middle Year](q2.md)
+    - [Quarter 3: End of Year](q3.md)
     
 - Training an Resources
+    - [CACME](cacme.md)
+    - [CYSH](cysh.md)
+    - [Extended Learning Time](elt.md)
+    - [Power Apps](pwrapps.md)
 
 - Supplemental Attachments
-
-- FAQS
+    - [L&D Library](l&d.md)
+    - [FAQs](faq.md)

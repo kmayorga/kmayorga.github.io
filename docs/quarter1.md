@@ -5,7 +5,7 @@ July - August
 #### Manager Checklist
 >- [ ] Engage incoming ACMs on your team via the CACME PowerApp
 >     - Directions [here](cacme.md)
->- [ ] Work with Analytics to ensure teacher/student data is available
+>- [ ] Work with Analytics to ensure teacher data is available
 >     - More information in section below
 >     - Run school level teacher classes reports (LAUSD)
 >     - Work with school partners to confirm Data Use Agreement signed (IUSD) 
@@ -16,11 +16,11 @@ July - August
 >- [ ] Support corps members observing students in their classes
 >     - Observations will ultimately support student interventions and selection of the focus list
 >     - Use the resources listed below to assits ACMs in selecting focus list students
-        - What Makes a Good Focus List Checklist
+        - What Makes a Good Focus List Checklist (insert link to document here)
         - Power BI [FY22 WSWC Dashboard](https://bit.ly/3i2TCaW): Initial Indicators Page
 
 
-# Getting Student Data
+# Getting Teacher & Student Data
 
 ### Data Access (Teacher schedules for In Class Deployment)
 
@@ -47,21 +47,8 @@ Inglewood uses a data platform called Schoolzilla to manage their data. City Yea
  ***Our current estimates for the rollout of all class deployment items is listed above and subject to change.***
 
 
- # Early Warning Indicators (EWI) and The Focus List Process
- ### What to Look for in a Focus List
- [Insert final pdf here]()
-
-When selecting a focus list student, it is important to consider the following:
-
-- [ ] In the past year, was this student on track or off track?
-      - 96% or higher attendance
-      - Passing ELA and Math classes
-      - No more than 1 behavior mark the prior year
-- [ ] Does the student have low attendance last year or within the first ten weeks of this year?
-        - Missing more than two days of the first month of school
-- [ ] Is the student missing assignments or scoring low on in class content in the first month?
-
-### The Focus List Process
+# Supporting ACMS Through the Focus List Process
+### The Focus List Process FY22
 In FY22 the focus list process is being simplified to have less steps and allow for greater flexibility in selecting students. Rather than starting with an initial caseload of students and then narrowing it down to a final focus list Corps members will just pick a caseload of 11 students when they feel like they have identified the correct students to receive services. The timeline for this process is listed below
 
 The Initial Focus List process begins with completing your school’s draft Deployment Workbook Template. Completion of the draft Deployment Workbook signifies that your team has been deployed into stable class lines and are ready to take steps towards building their initial focus list. Prior to making selections, ACMs will begin their student observation window (1-2 weeks). During this time, ACMs will begin to identify potential students, have initial ***conversations with their partner teachers, and explore the Student Portrait dashboard.***
@@ -80,3 +67,16 @@ During this period, the IA team will give PMs and ACMs access to their school’
 The general timelines for the focus list process are below and are subject to change. Keep in mind these are recommended windows in which things should progress and your school may be different.
 
 [Observation Catchers for Focus Lists](https://www.tablesgenerator.com/markdown_tables)
+
+### What to Look for in a Focus List and Early Warning Indicators (EWI)
+When selecting a focus list student, it is important to consider the following:
+
+- [ ] In the past year, was this student on track or off track?
+      - 96% or higher attendance
+      - Passing ELA and Math classes
+      - No more than 1 behavior mark the prior year
+- [ ] Does the student have low attendance last year or within the first ten weeks of this year?
+        - Missing more than two days of the first month of school
+- [ ] Is the student missing assignments or scoring low on in class content in the first month?
+
+To see full documentation, follow this link
