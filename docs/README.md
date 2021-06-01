@@ -8,9 +8,9 @@ If you would like to make improvements or request new content for this site, ple
 
 ## Resources
 
-- [L&D Library](l&d.md)
-- [IA Newsletters](math.md)
-- [IA Stream Channel](behavior.md)
+- [L&D Library](https://cityyear.sharepoint.com/teams/lax/LandD/SitePages/Home.aspx)
+- [IA Newsletters](https://bit.ly/2S2Y3rx)
+- [IA Stream Channel](https://web.microsoftstream.com/channel/4cb74f45-0d13-4e15-ab11-e72fa6344c4d)
 
 ## Features
 - Smart full-text search plugin
