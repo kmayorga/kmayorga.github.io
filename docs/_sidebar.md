@@ -13,7 +13,7 @@
     - [Quarter 2: Middle Year](quarter2.md)
     - [Quarter 3: End of Year](quarter3.md)
     
-- Training Content
+- Training an Resources
 
 - Supplemental Attachments
 
