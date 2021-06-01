@@ -8,11 +8,9 @@ If you would like to make improvements or request new content for this site, ple
 
 ## Resources
 
-- [one](ela.md)
-- [two](math.md)
-- [three](behavior.md)
-- [four](attendance.md)
-
+- [L&D Library](l&d.md)
+- [IA Newsletters](math.md)
+- [IA Stream Channel](behavior.md)
 
 ## Features
 - Smart full-text search plugin
