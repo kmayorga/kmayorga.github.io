@@ -25,19 +25,19 @@ Caseload changes via cyschoolhouse will be managed by program managers after Imp
 1. Go to CYSH by clicking the cyschoolhouse tile in your [Okta homepage](https://cityyear.okta.com/app/UserHome)
 
 <p align="left">
-<img src="_images/cyshoktatile.png" alt="CYSH_Okta_Tile" style="width:40%;"/>
+<img src="_images/cyshoktatile.PNG" alt="CYSH_Okta_Tile" style="width:40%;"/>
 </p>
 
 2. Click on the 'Setions' tab to locate the section needed
 
 <p align="left">
-<img src="_images/cyshribbon-sections.png" alt="CYSH_Okta_Tile" style="width:40%;"/>
+<img src="_images/cyshribbon-sections.PNG" alt="CYSH_Ribbon_Sections" style="width:40%;"/>
 </p>
 
 3. On the top right-hand corner, find and select 'Section Intervention Data'
 
 <p align="left">
-<img src="_images/cysh-sectioninterventiondata.png" alt="CYSH_Okta_Tile" style="width:90%;"/>
+<img src="_images/cysh-sectioninterventiondata.PNG" alt="CYSH_SectionIntData" style="width:90%;"/>
 </p>
 
 ### Withdrawing Students
@@ -47,7 +47,7 @@ Caseload changes via cyschoolhouse will be managed by program managers after Imp
 - Using the ribbon, select 'Withdraw Student(s)
 
 <p align="center">
-<img src="_images/cysh-exitstu.png" alt="CYSH_Okta_Tile" style="width:40%;"/>
+<img src="_images/cysh-exitstu.PNG" alt="CYSH_Exiting_Stu" style="width:40%;"/>
 </p>
 
 - In the new window, select an ***Exit Date***, if different from today, and and ***Exit Reason***.
@@ -55,7 +55,7 @@ Caseload changes via cyschoolhouse will be managed by program managers after Imp
 - Click 'Save'
 
 <p align="center">
-<img src="_images/cysh-exitmenu.png" alt="CYSH_Okta_Tile" style="width:70%;"/>
+<img src="_images/cysh-exitmenu.PNG" alt="CYSH_ExitStu_Menu style="width:70%;"/>
 </p>
 
 ### Adding Students
@@ -63,7 +63,7 @@ Caseload changes via cyschoolhouse will be managed by program managers after Imp
 - Using the ribbon, select 'Enroll Student(s)'
 
 <p align="center">
-<img src="_images/cysh-sectionribbon.png" alt="CYSH_Okta_Tile" style="width:70%;"/>
+<img src="_images/cysh-sectionribbon.PNG" alt="CYSH_Sections_Ribbon" style="width:70%;"/>
 </p>
 
 - Enter an enrollment date. ***Should be the 1st day the student started recieving services***
@@ -75,7 +75,7 @@ Caseload changes via cyschoolhouse will be managed by program managers after Imp
 - Then use the 'Alphabet' filter to filter the names to the student(s)' FIRST NAME
 
 <p align="center">
-<img src="_images/cysh-filters.png" alt="CYSH_Okta_Tile" style="width:40%;"/>
+<img src="_images/cysh-filters.PNG" alt="CYSH_Filters" style="width:40%;"/>
 </p>
 
 - Select your student(s) in the left pane, then use the right arrow on the screen to move them to the right pane.
@@ -85,5 +85,5 @@ Caseload changes via cyschoolhouse will be managed by program managers after Imp
 - Once all students have been selected and validated, click Save.
 
 <p align="center">
-<img src="_images/cysh-addingstu.png" alt="CYSH_Adding_Students" style="width:70%;"/>
+<img src="_images/cysh-addingstu.PNG" alt="CYSH_Adding_Students" style="width:70%;"/>
 </p>
