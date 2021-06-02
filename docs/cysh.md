@@ -133,6 +133,7 @@ Indicator areas are used by HQ to identify focus list students. Students that do
 - Go to the 'Sections' tab in the blue ribbon
 - Open a section in ELA, Math or SEL (*Note: indicator areas are only assigned in these sections not in ELT)
 - Select all students by clicking on the box at the top-left corner
+
 <p align="left">
 <img src="_images/cysh-selectall.PNG" alt="CYSH_Select All_Students" style="width:100%;"/>
 </p>
